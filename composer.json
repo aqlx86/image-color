@@ -14,5 +14,6 @@
             "ImageColor\\": "src/ImageColor/"
         }
     },
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
