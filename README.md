@@ -2,6 +2,10 @@
 
 Creates a data-uri based on the image dominant color.
 
+## Requirements
+
+ImageMagick extension should be present.
+
 ## Usage
 
 ```
@@ -15,7 +19,7 @@ echo $i->get_data_uri();
 
 ```
 
-
 ## Credits
-https://manu.ninja/dominant-colors-for-lazy-loading-images
-https://www.webrocker.de/2016/03/28/dominant-color-in-an-image/
+
+* https://manu.ninja/dominant-colors-for-lazy-loading-images
+* https://www.webrocker.de/2016/03/28/dominant-color-in-an-image/
